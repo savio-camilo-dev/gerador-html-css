@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"> <!-- Conecta o CSS ao HTML -->
+
+    <!-- Fonte externa do Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        rel="stylesheet"> <!-- Permite uso da fonte Inter -->
+
+    <title>DevClub - Gerador de IA</title>
+</head>
+
+<body>
+    <h1>CSS gerador <span> por IA </span>⚡</h1>
+    <!-- O <span> destaca parte do texto -->
+
+    <p>Descreva o que você imagina e veja a mágica acontecer</p>
+
+    <!-- Área de entrada de texto -->
+    <textarea rows="3" class="caixa-texto" placeholder="ex: bola azul pingando"></textarea>
+
+    <button class="botao-gerar"> Gerar Código ⚡</button>
+    <!-- Botão que aciona a geração do código -->
+
+    <div class="resultado">
+
+        <div>
+            <h2 class="h2-Código">Código</h2>
+            <p class="bloco-codigo"></p> <!-- Código gerado será exibido aqui -->
+        </div>
+
+        <div>
+            <h2 class="h2-preview">Preview</h2>
+            <iframe class="resultado-codigo"></iframe> <!-- Resultado em tempo real -->
+        </div>
+
+    </div>
+
+</body>
+
+<!-- Link do JavaScript -->
+<script src="scripts.js"></script>
+
+</html>
