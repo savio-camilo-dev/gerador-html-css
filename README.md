@@ -9,7 +9,7 @@
 ## 📸 Demonstração
 
 <p align="center">
-  <img src="./demo.gif" alt="Demonstração do projeto" width="600">
+  ![Demonstração do projeto](demo.gif)
 </p>
 
 ---
