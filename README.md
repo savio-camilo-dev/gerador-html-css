@@ -8,9 +8,9 @@
 
 ## 📸 Demonstração
 
-<p align="center">
+
   ![Demonstração do projeto](demo.gif)
-</p>
+
 
 ---
 
