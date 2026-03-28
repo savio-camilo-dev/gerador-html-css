@@ -16,9 +16,9 @@
 
 ## 💡 Sobre o projeto
 
-Este projeto foi desenvolvido com o objetivo de praticar **JavaScript** e automatizar a criação de estruturas HTML e CSS.
+Este projeto foi desenvolvido com o objetivo de praticar **JavaScript** e integrar o uso de **Inteligência Artificial** na geração automática de código.
 
-A ideia é simples: o usuário fornece um comando e o sistema gera o código correspondente, facilitando estudos e prototipagem.
+A proposta é simples: o usuário descreve o que deseja e o sistema gera o HTML e CSS correspondentes, facilitando estudos, testes e prototipagem.
 
 ---
 
@@ -33,9 +33,9 @@ A ideia é simples: o usuário fornece um comando e o sistema gera o código cor
 
 ## ⚙️ Funcionalidades
 
-* ✨ Geração automática de código
-* ⚡ Interface simples e rápida
-* 💻 Fácil de usar para iniciantes
+* ✨ Geração automática de código com IA
+* ⚡ Interface simples e intuitiva
+* 💻 Ideal para iniciantes e estudos
 
 ---
 
@@ -49,7 +49,7 @@ Para utilizar o projeto corretamente, você precisa de uma API Key da **Groq**.
 2. Crie sua conta e gere uma API Key
 3. No arquivo `scripts.js`, substitua pela sua chave:
 
-```javascript id="pd18f5"
+```javascript
 const apiKey = "SUA_API_KEY_AQUI";
 ```
 
@@ -61,13 +61,13 @@ const apiKey = "SUA_API_KEY_AQUI";
 
 1. Clone o repositório:
 
-```bash id="1cj3bc"
+```bash
 git clone https://github.com/savio-camilo-dev/gerador-html-css.git
 ```
 
 2. Acesse a pasta:
 
-```bash id="u1j1sq"
+```bash
 cd gerador-html-css
 ```
 
@@ -79,8 +79,8 @@ cd gerador-html-css
 ## 📈 Melhorias futuras
 
 * 🎨 Interface mais moderna
-* 🤖 IA mais avançada
-* 📦 Mais opções de geração de código
+* 🤖 IA com mais opções de geração
+* 📦 Exportação de código
 
 ---
 
